@@ -1,6 +1,6 @@
 Hello there !
 
-Thanks browsing my profile 
+Thanks for browsing my profile 
 
 I’m currently working and improving my technical skills with JavaScript, React/Redux, NodeJS/Express, and NoSQL/MongoDB, 
 also am working on increasing experience regarding RESTful APIs built with NodeJs, and responsive design.
