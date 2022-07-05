@@ -8,6 +8,6 @@ I want to collaborate on projects as a fullstack, backend or frontend developer.
  
 About me:
 
-I love rock and roll, my family, friends and video games. Also I love learning new things and technologies.
+I love my family, rock and roll, friends and video games. Also I love learning new things and technologies.
  
  Have a great one! 
